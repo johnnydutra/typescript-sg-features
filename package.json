@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "typescript-sg",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnydutra/typescript-sg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnydutra/typescript-sg/issues"
+  },
+  "homepage": "https://github.com/johnnydutra/typescript-sg#readme"
+}
